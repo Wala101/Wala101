@@ -1,16 +1,23 @@
-## Hi there 👋
+# Moisés Pereira
 
-<!--
-**Wala101/Wala101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **WALA**, a project focused on Web3 products, token creation, and on-chain solutions.
 
-Here are some ideas to get you started:
+Currently building:
+- Token creation tools
+- Liquidity features
+- Prediction markets
+- On-chain products
+- Web3 ecosystem utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## WALA
+WALA is a platform being built to connect token creation, utility, and practical blockchain products.
+
+- Website: https://wala-preditions.netlify.app/
+- X: https://x.com/WalaTokenSwap
+
+## Focus
+- Web3
+- Solana
+- Product Development
+- On-Chain Solutions
+- Ecosystem Building
