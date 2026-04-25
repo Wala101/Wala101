@@ -12,7 +12,7 @@ Currently building:
 ## WALA
 WALA is a platform being built to connect token creation, utility, and practical blockchain products.
 
-- Website: https://wala-preditions.netlify.app/
+- Website: www.vwala.com.br
 - X: https://x.com/WalaTokenSwap
 
 ## Focus
